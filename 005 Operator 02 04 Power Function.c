@@ -4,6 +4,6 @@ int main(void)
 {	
 	double a = pow(2.0, 3.0); // 2ÀÇ 3Á¦°ö
 	printf("2ÀÇ 3Á¦°öÀº %.2f", a); 
-	 
+	
 	return 0;
 }
